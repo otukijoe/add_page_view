@@ -13,6 +13,7 @@ cookie = '__ah_uuid=77400692-0677-48D4-9764-D11DF1AFF757; fvlid=1539750640285uB8
 host = 'www.autohome.com.cn'
 referer = 'https://www.autohome.com.cn'
 
+'''
 proxies = [
     {'http': '58.49.15.94:41821'},
     {'http': '61.135.217.7:80'},
@@ -25,4 +26,4 @@ proxies = [
     {'http': '122.115.78.240:38157'},
     {'https': '122.235.172.230:8118'},
     ]
-
+'''
