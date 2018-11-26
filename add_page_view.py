@@ -36,7 +36,6 @@ def get_html(rate):
         print '\n'
         sleep(rate)
 
-
 if __name__ == '__main__':
     rate = input('please input the rate of visit(unit:second):')
     print 'start:'
